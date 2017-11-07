@@ -1,0 +1,18 @@
+f_s_8_r0_   :prefix
+0.015d0 0.015d0  :a
+1.0d0 1.0d0   :b
+2.5d0 2.5d0 :n
+5d0 5d0   :m
+18d0 18d0     :p
+0.01d0 0.01d0  :thr
+0.4d0 0.4d0  :ths
+800    :neq
+-40.0d0  :ht
+-70.0d0 :hb 
+0 1d-6 10d0 50d0 100d0 150d0 200d0 1000d0  :tspan
+1.0d-7  :rtol
+1.0d-7  :atol
+200     :maxiter
+1.0d-8  :tol
+0       :initfile
+0       :rootchoice
