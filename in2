@@ -1,0 +1,15 @@
+g1_200_lin_        :prefix
+13.0d0 1.0d0   :a
+1.0d0 6.0d-4 :b
+0.06d0 0.06d0 :thr
+0.40d0 0.40d0 :ths
+200     :neq
+-0.6d0   :ht
+-1d0   :hb
+0d0 1d-7 1d-3 1d-2 5d-2 2.5d0 4.5d0 100d0  :t final
+1.0d-7  :rtol
+1.0d-7  :atol
+500     :maxiter
+1.0d-7  :root finding tol
+0       :initfile
+

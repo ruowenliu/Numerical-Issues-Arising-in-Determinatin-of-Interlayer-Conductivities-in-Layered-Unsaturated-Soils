@@ -1,0 +1,56 @@
+ Time from    0.0000000000000000       to    9.9999999999999995E-008
+ After step            1  number of integrations is           11
+ Elapsed CPU time (in seconds) =    1.0340999999999999E-002
+ # of time steps =           11
+ # of multiple =            0
+ # of positive upper h =            0
+ # of positive lower h =            0
+ # of inconsistent flux =            0
+ Time from    9.9999999999999995E-008  to    1.0000000000000000E-003
+ After step            2  number of integrations is         1014
+ Elapsed CPU time (in seconds) =   0.34426799999999996     
+ # of time steps =         1014
+ # of multiple =            0
+ # of positive upper h =            0
+ # of positive lower h =            0
+ # of inconsistent flux =            0
+ Time from    1.0000000000000000E-003  to    1.0000000000000000E-002
+ After step            3  number of integrations is         2014
+ Elapsed CPU time (in seconds) =   0.59802900000000003     
+ # of time steps =         2014
+ # of multiple =            0
+ # of positive upper h =            0
+ # of positive lower h =            0
+ # of inconsistent flux =            0
+ Time from    1.0000000000000000E-002  to    5.0000000000000003E-002
+ After step            4  number of integrations is         3015
+ Elapsed CPU time (in seconds) =   0.86860499999999996     
+ # of time steps =         3015
+ # of multiple =            0
+ # of positive upper h =            0
+ # of positive lower h =            0
+ # of inconsistent flux =            0
+ Time from    5.0000000000000003E-002  to    2.5000000000000000     
+ After step            5  number of integrations is         4018
+ Elapsed CPU time (in seconds) =    1.1209199999999999     
+ # of time steps =         4018
+ # of multiple =            0
+ # of positive upper h =            0
+ # of positive lower h =            0
+ # of inconsistent flux =            0
+ Time from    2.5000000000000000       to    4.5000000000000000     
+ After step            6  number of integrations is         5019
+ Elapsed CPU time (in seconds) =    1.4158119999999998     
+ # of time steps =         5019
+ # of multiple =            0
+ # of positive upper h =            0
+ # of positive lower h =            0
+ # of inconsistent flux =            0
+ Time from    4.5000000000000000       to    100.00000000000000     
+ After step            7  number of integrations is         6021
+ Elapsed CPU time (in seconds) =    1.7259199999999999     
+ # of time steps =         6021
+ # of multiple =            0
+ # of positive upper h =            0
+ # of positive lower h =            0
+ # of inconsistent flux =            0
