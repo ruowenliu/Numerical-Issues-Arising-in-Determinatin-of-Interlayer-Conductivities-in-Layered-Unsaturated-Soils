@@ -1,0 +1,2 @@
+This folder contains the programs of the numerical simulations for the Gardner model case 2.
+The fixed-point iteration may converge to a 2-cycle. Use Newton iteration is recommended.
