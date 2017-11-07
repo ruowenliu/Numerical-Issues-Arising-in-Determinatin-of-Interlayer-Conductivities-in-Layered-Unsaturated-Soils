@@ -1,0 +1,16 @@
+m_104_r2_         :prefix for filename
+0.13d0 0.29d0    :alpha
+0.8d0 1.0d0      :beta
+2.5d0 2.72d0    :n
+0.001d0 0.001d0  :residual water content
+0.368d0 0.368d0      :saturated water content
+104             :# of interior grid points, even for Dirichlet
+-1d0           :ht
+-135d0             :hb, bottom pressure head
+0.0d0 0.007d0 0.014d0 0.0149d0 0.015d0 0.0151d0 0.0152d0 0.05d0   :tspan
+1.0d-5           :relative tolerance for ode sover
+1.0d-5           :absolute tolerance for ode solver
+1000              :max # of iterations for interface problem
+1.0d-5           :tolerance for interface problem
+0                :init_file initial filenumber
+2                :rootchoice
